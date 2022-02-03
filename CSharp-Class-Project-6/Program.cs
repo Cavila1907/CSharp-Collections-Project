@@ -103,8 +103,6 @@ namespace CSharp_Class_Project_6
             {
                 return $"[Modelo: {modelo}, tempo: {tempo} minutos]";
             }
-
-            
         }
 
     }

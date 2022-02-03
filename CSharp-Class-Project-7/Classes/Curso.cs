@@ -26,7 +26,6 @@ namespace CSharp_Class_Project_7.Classes
 
         }
 
-
         //Campo privado contendo a lista de aulas
         private IList<Aula> aulas;
         public IList<Aula> Aulas
@@ -35,7 +34,6 @@ namespace CSharp_Class_Project_7.Classes
             get { return new ReadOnlyCollection<Aula>(aulas); }
 
         }
-
 
         //Campos
         private string nome;

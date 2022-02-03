@@ -32,5 +32,6 @@ namespace CSharp_Class_Project_7.Classes
         {
             return $"[Matéria: {materia}, tempo: {tempo} minutos]";
         }
+
     }
 }

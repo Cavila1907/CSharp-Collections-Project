@@ -42,6 +42,5 @@ namespace CSharp_Class_Project_7.Classes
         {
             return this.nome.GetHashCode();
         }
-
     }
 }
