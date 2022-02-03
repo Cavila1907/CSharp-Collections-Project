@@ -1,0 +1,7 @@
+C:\Users\cmatos\Desktop\CSharp-Projects\CSharp-Class-Project-5\CSharp-Class-Project-5\CSharp-Class-Project-5\bin\Debug\CSharp-Class-Project-5.exe.config
+C:\Users\cmatos\Desktop\CSharp-Projects\CSharp-Class-Project-5\CSharp-Class-Project-5\CSharp-Class-Project-5\bin\Debug\CSharp-Class-Project-5.exe
+C:\Users\cmatos\Desktop\CSharp-Projects\CSharp-Class-Project-5\CSharp-Class-Project-5\CSharp-Class-Project-5\bin\Debug\CSharp-Class-Project-5.pdb
+C:\Users\cmatos\Desktop\CSharp-Projects\CSharp-Class-Project-5\CSharp-Class-Project-5\CSharp-Class-Project-5\obj\Debug\CSharp-Class-Project-5.csproj.AssemblyReference.cache
+C:\Users\cmatos\Desktop\CSharp-Projects\CSharp-Class-Project-5\CSharp-Class-Project-5\CSharp-Class-Project-5\obj\Debug\CSharp-Class-Project-5.csproj.CoreCompileInputs.cache
+C:\Users\cmatos\Desktop\CSharp-Projects\CSharp-Class-Project-5\CSharp-Class-Project-5\CSharp-Class-Project-5\obj\Debug\CSharp-Class-Project-5.exe
+C:\Users\cmatos\Desktop\CSharp-Projects\CSharp-Class-Project-5\CSharp-Class-Project-5\CSharp-Class-Project-5\obj\Debug\CSharp-Class-Project-5.pdb
