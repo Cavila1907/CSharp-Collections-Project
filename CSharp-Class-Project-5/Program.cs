@@ -94,18 +94,7 @@ namespace CSharp_Class_Project_5
             //Clonando 
             List<string> clone = new List<string>(aulas);
             Imprimir(clone);
-
-
-
-
-
-
-
-
-
-
         }
-
 
         private static void Imprimir(List<string> aulas)
         {

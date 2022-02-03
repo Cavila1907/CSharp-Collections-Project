@@ -38,12 +38,11 @@ namespace CSharp_Class_Project_7
             {
                 Console.WriteLine(aluno);
             }
-
             Console.WriteLine("");
+
 
             Console.WriteLine($"O aluno {a1.Nome} está matriculado? ");
             Console.WriteLine(csharpColecoes.EstaMatriculado(a1));
-
 
 
             //Instaciando novo aluno

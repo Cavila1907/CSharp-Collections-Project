@@ -72,7 +72,6 @@ namespace CSharp_Class_Project_7.Classes
             }
         }
 
-
         internal void SubstituiAluno(Aluno aluno)
         {
             this.dicionarioAlunos[aluno.NumeroMatricula] = aluno;
@@ -95,9 +94,7 @@ namespace CSharp_Class_Project_7.Classes
         public bool EstaMatriculado(Aluno aluno)
         {
 
-
             return alunos.Contains(aluno);
-
 
         }
     }
